@@ -14,7 +14,7 @@
 ![REST API](https://img.shields.io/badge/API-REST-orange)
 ![Migration Strategy](https://img.shields.io/badge/Migration-Raw%20SQL%20%2B%20REST-red)
 
-[English](README.md) | [German](../DE/README.md)
+[English](README.md) | [German](./translations/DE/README.md)
 
 ---
 
